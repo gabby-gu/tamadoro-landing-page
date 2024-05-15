@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /404.html
+Sitemap: https://gabby-gu.github.io/tamadoro-landing-page/sitemap.xml

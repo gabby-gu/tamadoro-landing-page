@@ -1,8 +1,7 @@
-baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
-title = "Hugo Bootstrap Theme"
-author = "Filipe Carneiro"
-copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
-
+baseURL = 'https://gabby-gu.github.io/tamadoro-landing-page/'
+title = "Tamadoro"
+author = "Amanda Lee, Ash Fujiyama, Gabby Gu, Sydney Simon"
+copyright = "Amanda Lee, Ash Fujiyama, Gabby Gu, Sydney Simon"
 timeZone = 'Europe/London'
 
 # Multilingual

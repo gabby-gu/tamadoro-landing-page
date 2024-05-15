@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Hugo Bootstrap Theme</title>
-    <link>http://localhost:49582/hugo-bootstrap-theme/authors/</link>
-    <description>Recent content in Authors on Hugo Bootstrap Theme</description>
+    <title>Authors on Tamadoro</title>
+    <link>http://localhost:49582/tamadoro-landing-page/authors/</link>
+    <description>Recent content in Authors on Tamadoro</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>Open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE&#34;&gt;MIT&lt;/a&gt; Licensed.</copyright>
+    <copyright>Amanda Lee, Ash Fujiyama, Gabby Gu, Sydney Simon</copyright>
     <lastBuildDate>Wed, 15 May 2024 05:53:10 -0400</lastBuildDate>
-    <atom:link href="http://localhost:49582/hugo-bootstrap-theme/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:49582/tamadoro-landing-page/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bjørn Erik Pedersen</title>
-      <link>http://localhost:49582/hugo-bootstrap-theme/authors/bj%C3%B8rn-erik-pedersen/</link>
+      <link>http://localhost:49582/tamadoro-landing-page/authors/bj%C3%B8rn-erik-pedersen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49582/hugo-bootstrap-theme/authors/bj%C3%B8rn-erik-pedersen/</guid>
+      <guid>http://localhost:49582/tamadoro-landing-page/authors/bj%C3%B8rn-erik-pedersen/</guid>
       <description></description>
     </item>
     <item>
       <title>Mark Otto</title>
-      <link>http://localhost:49582/hugo-bootstrap-theme/authors/mark-otto/</link>
+      <link>http://localhost:49582/tamadoro-landing-page/authors/mark-otto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49582/hugo-bootstrap-theme/authors/mark-otto/</guid>
+      <guid>http://localhost:49582/tamadoro-landing-page/authors/mark-otto/</guid>
       <description></description>
     </item>
     <item>
       <title>Filipe Carneiro</title>
-      <link>http://localhost:49582/hugo-bootstrap-theme/authors/filipe-carneiro/</link>
+      <link>http://localhost:49582/tamadoro-landing-page/authors/filipe-carneiro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49582/hugo-bootstrap-theme/authors/filipe-carneiro/</guid>
+      <guid>http://localhost:49582/tamadoro-landing-page/authors/filipe-carneiro/</guid>
       <description>Filipe Carneiro.</description>
     </item>
   </channel>
